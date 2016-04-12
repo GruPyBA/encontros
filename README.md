@@ -12,16 +12,16 @@ O grupo começou em Outubro de 2007, e fizemos algumas reuniões com o passar do
 
 ## Reuniões por ano
 
-- [2007](https://github.com/grupy-sp/encontros/tree/master/2007)
-- [2008](https://github.com/grupy-sp/encontros/tree/master/2008)
-- [2009](https://github.com/grupy-sp/encontros/tree/master/2009)
-- [2010](https://github.com/grupy-sp/encontros/tree/master/2010)
-- [2011](https://github.com/grupy-sp/encontros/tree/master/2011)
-- [2012](https://github.com/grupy-sp/encontros/tree/master/2012)
-- [2013](https://github.com/grupy-sp/encontros/tree/master/2013)
-- [2014](https://github.com/grupy-sp/encontros/tree/master/2014)
-- [2015](https://github.com/grupy-sp/encontros/tree/master/2015)
-- [2016](https://github.com/grupy-sp/encontros/tree/master/2016)
+- [2007](https://github.com/GruPyBA/encontros/tree/master/2007)
+- [2008](https://github.com/GruPyBA/encontros/tree/master/2008)
+- [2009](https://github.com/GruPyBA/encontros/tree/master/2009)
+- [2010](https://github.com/GruPyBA/encontros/tree/master/2010)
+- [2011](https://github.com/GruPyBA/encontros/tree/master/2011)
+- [2012](https://github.com/GruPyBA/encontros/tree/master/2012)
+- [2013](https://github.com/GruPyBA/encontros/tree/master/2013)
+- [2014](https://github.com/GruPyBA/encontros/tree/master/2014)
+- [2015](https://github.com/GruPyBA/encontros/tree/master/2015)
+- [2016](https://github.com/GruPyBA/encontros/tree/master/2016)
 
 
 ### Redes sociais:
