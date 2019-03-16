@@ -21,7 +21,10 @@ O grupo começou em Outubro de 2007, e fizemos algumas reuniões com o passar do
 
 ## Reuniões por ano
 
-- [2019](https://github.com/GruPyBA/encontros/tree/master/2019)
+- [2007](2007/)
+- [2008](2008/)
+- [2010](2010/)
+- [2019](2019/)
 
 ### Redes sociais:
 
