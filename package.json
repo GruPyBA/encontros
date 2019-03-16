@@ -8,7 +8,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "npm build && git add ."
+      "pre-commit": "npm run-script build && git add ."
     }
   },
   "repository": {
