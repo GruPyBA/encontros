@@ -1,3 +1,18 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Definição do evento:](#defini%C3%A7%C3%A3o-do-evento)
+- [Divulgação do evento:](#divulga%C3%A7%C3%A3o-do-evento)
+- [Mídias sociais](#m%C3%ADdias-sociais)
+- [Código de Conduta](#c%C3%B3digo-de-conduta)
+- [Pauta](#pauta)
+- [Ata](#ata)
+  - [Grupy-Ba: 22/02/2019](#grupy-ba-22022019)
+  - [Presentes:](#presentes)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Definição do evento:
 
 - Teaser: Reunião do Grupy-BA simultânea com FSA

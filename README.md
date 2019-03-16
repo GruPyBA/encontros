@@ -1,3 +1,13 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Repositório do GruPy-BA - Grupo de usuários de Python do Estado da Bahia](#reposit%C3%B3rio-do-grupy-ba---grupo-de-usu%C3%A1rios-de-python-do-estado-da-bahia)
+  - [Reuniões por ano](#reuni%C3%B5es-por-ano)
+    - [Redes sociais:](#redes-sociais)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ![Grupy-BA](https://raw.githubusercontent.com/grupy-ba/logo/master/logo-grupy.png)
 
 # Repositório do GruPy-BA - Grupo de usuários de Python do Estado da Bahia
