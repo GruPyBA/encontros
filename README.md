@@ -8,7 +8,6 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-![Grupy-BA](https://raw.githubusercontent.com/grupy-ba/logo/master/logo-grupy.png)
 
 # Repositório do GruPy-BA - Grupo de usuários de Python do Estado da Bahia
 
