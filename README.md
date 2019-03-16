@@ -1,3 +1,13 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Repositório do GruPy-BA - Grupo de usuários de Python do Estado da Bahia](#reposit%C3%B3rio-do-grupy-ba---grupo-de-usu%C3%A1rios-de-python-do-estado-da-bahia)
+  - [Reuniões por ano](#reuni%C3%B5es-por-ano)
+    - [Redes sociais:](#redes-sociais)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ![Grupy-BA](https://raw.githubusercontent.com/grupy-ba/logo/master/logo-grupy.png)
 
 # Repositório do GruPy-BA - Grupo de usuários de Python do Estado da Bahia
@@ -12,17 +22,7 @@ O grupo começou em Outubro de 2007, e fizemos algumas reuniões com o passar do
 
 ## Reuniões por ano
 
-- [2007](https://github.com/GruPyBA/encontros/tree/master/2007)
-- [2008](https://github.com/GruPyBA/encontros/tree/master/2008)
-- [2009](https://github.com/GruPyBA/encontros/tree/master/2009)
-- [2010](https://github.com/GruPyBA/encontros/tree/master/2010)
-- [2011](https://github.com/GruPyBA/encontros/tree/master/2011)
-- [2012](https://github.com/GruPyBA/encontros/tree/master/2012)
-- [2013](https://github.com/GruPyBA/encontros/tree/master/2013)
-- [2014](https://github.com/GruPyBA/encontros/tree/master/2014)
-- [2015](https://github.com/GruPyBA/encontros/tree/master/2015)
-- [2016](https://github.com/GruPyBA/encontros/tree/master/2016)
-
+- [2019](https://github.com/GruPyBA/encontros/tree/master/2019)
 
 ### Redes sociais:
 
