@@ -2,14 +2,14 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [Repositório do GruPy-BA - Grupo de usuários de Python do Estado da Bahia](#reposit%C3%B3rio-do-grupy-ba---grupo-de-usu%C3%A1rios-de-python-do-estado-da-bahia)
+- [Encontros dos GruPy-BA](#encontros-dos-grupy-ba)
   - [Reuniões por ano](#reuni%C3%B5es-por-ano)
-    - [Redes sociais:](#redes-sociais)
+  - [Redes sociais:](#redes-sociais)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 
-# Repositório do GruPy-BA - Grupo de usuários de Python do Estado da Bahia
+## Encontros dos GruPy-BA
 
 O GruPy-BA é o Grupo de Usuários Python do Estado da Bahia.
 
@@ -19,7 +19,7 @@ O grupo começou em Outubro de 2007, e fizemos algumas reuniões com o passar do
 
 - [Deseja patrocinar um de nossos eventos? Veja nosso guia sobre as alternativas que oferecemos](https://github.com/grupy-ba/encontros/blob/master/patrocinio-grupy-ba.md)
 
-## Reuniões por ano
+### Reuniões por ano
 
 - [2007](2007/)
 - [2008](2008/)
